@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553078976 source:c:\users\pracownik\desktop\ram\elo\staticcpp\polimorfizm_c_static\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototyp.h"
+
+1553079870 c:\users\pracownik\desktop\ram\elo\staticcpp\polimorfizm_c_static\prototyp.h
+
+1553079634 source:c:\users\pracownik\desktop\ram\elo\staticcpp\polimorfizm_c_static\plik1.c
+	"prototyp.h"
+
+1553079655 source:c:\users\pracownik\desktop\ram\elo\staticcpp\polimorfizm_c_static\plik2.c
+	"prototyp.h"
+
+1553079861 source:c:\users\pracownik\desktop\ram\elo\staticcpp\polimorfizm_c_static\plik3.c
+	"prototyp.h"
+
